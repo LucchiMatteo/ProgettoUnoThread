@@ -1,0 +1,9 @@
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\bin\Debug\netstandard2.0\Starfield.deps.json
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\bin\Debug\netstandard2.0\Starfield.dll
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\bin\Debug\netstandard2.0\Starfield.pdb
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\obj\Debug\netstandard2.0\Starfield.csprojAssemblyReference.cache
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\obj\Debug\netstandard2.0\Starfield.AssemblyInfoInputs.cache
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\obj\Debug\netstandard2.0\Starfield.AssemblyInfo.cs
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\obj\Debug\netstandard2.0\Starfield.csproj.CoreCompileInputs.cache
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\obj\Debug\netstandard2.0\Starfield.dll
+C:\Users\prof.lucchi\Downloads\starfield\Starfield\obj\Debug\netstandard2.0\Starfield.pdb

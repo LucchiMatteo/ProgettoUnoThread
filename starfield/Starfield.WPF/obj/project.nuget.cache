@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLAUH57hoQV6w2f7l14HpXTqZWf8emkJT/xPZUSOjwdvD/AN6iwJ/AXbH5eDTrZMEfz1z2VsLdKIo3DXD7InhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prof.lucchi\\Downloads\\starfield\\Starfield.WPF\\Starfield.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

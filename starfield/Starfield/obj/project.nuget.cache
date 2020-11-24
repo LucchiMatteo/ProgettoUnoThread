@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8JfNIoJXP7PgwPnRsE5M4Gjraww4Bfkb41PW+48ViMxy2np8V8n+DRPfF/q6zYcuK/nQAymKzg5UF/JLo54YTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prof.lucchi\\Downloads\\starfield\\Starfield\\Starfield.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
